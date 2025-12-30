@@ -120,6 +120,8 @@ git clone https://github.com/Xylon-404/TG_NAME_CHANGE.git
 Enter folder:
 Copy code
 Bash
+```
+
 cd TG_NAME_CHANGE
 Run script:
 Copy code
