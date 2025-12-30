@@ -109,43 +109,47 @@ You can implement:
 - Telegram Bot Token
 - Internet connection
 
-Install requirements:
-```bash
-pip install -r requirements.txt
-▶️ Usage
-Clone repository:
-Copy code
-Bash
-git clone https://github.com/Xylon-404/TG_NAME_CHANGE.git
-Enter folder:
-Copy code
-Bash
-```
+---
 
-cd TG_NAME_CHANGE
-Run script:
-Copy code
-Bash
-python tg_name.py
-🔑 Configuration
-Edit tg_name.py and add your bot token:
-Copy code
-Python
-BOT_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
-📌 SEO Keywords
-Telegram Bot Name Change With Python Script
-Telegram Auto Name Change Bot
-TG Bot Name Changer Python
-Telegram Bot Rename Script
-Python Telegram Bot Automation
-Free Telegram Bot Tools
-⚠️ Disclaimer
-For educational purposes only.
-Author is not responsible for misuse.
-❤️ Support
-If you like this project, please ⭐ star the repository.
-Repository: https://github.com/Xylon-404/TG_NAME_CHANGE
-👑 Author
-Xylon-404
-Python & Telegram Bot Developer
-☠️ Stay Ethical | Stay Legal ☠️
+## ⚠️ Disclaimer
+
+This repository and script are created **for educational and learning purposes only**.
+
+The author does **not encourage or support any illegal, unethical, or abusive use** of Telegram bots or automation scripts.  
+Any misuse of this code is **strictly the responsibility of the user**.
+
+Use this project **at your own risk** and always follow  
+📜 Telegram Terms of Service & local laws.
+
+---
+
+## ❤️ Support This Project
+
+If this repository helped you or saved your time:
+
+- ⭐ Give a **Star** to support the project
+- 🍴 **Fork** it and build your own version
+- 🧠 Share with friends & developers
+- 💬 Give feedback or suggestions
+
+Your support motivates me to create **more free & powerful tools** 🚀
+
+🔗 Repository:  
+https://github.com/Xylon-404/TG_NAME_CHANGE
+
+---
+
+## 👑 Author
+
+**Xylon-404**  
+Python & Telegram Bot Developer  
+
+- 💻 Passionate about Automation & Bots  
+- 🧠 Learning & Sharing Knowledge  
+- 🚀 Open Source Contributor  
+
+> _"Code responsibly. Knowledge is power."_  
+
+---
+
+☠️ **Stay Ethical | Stay Legal | Stay Safe** ☠️
