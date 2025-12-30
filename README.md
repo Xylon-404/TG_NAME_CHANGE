@@ -22,10 +22,18 @@ Automatically change your Telegram Bot name using Python.
 
 ---
 
-## 📂 Repository Structure
-TG_NAME_CHANGE/ ├── tg_name.py ├── README.md └── requirements.txt
-Copy code
+Termux Tool Install 
+```
+git clone https://github.com/Xylon-404/TG_NAME_CHANGE.git
+cd TG_NAME_CHANGE
+python tg_name.py
+```
 
+
+## 📂 Repository Structure
+TG_NAME_CHANGE/ 
+├── tg_name.py 
+├── README.md
 ---
 
 ```
